@@ -1,0 +1,10 @@
+# requirements.txt
+
+# AWS SDK for Python, used to interact with the AWS API.
+boto3>=1.28.0
+
+# For creating beautiful, modern CLI applications.
+typer[all]>=0.9.0
+
+# For rich and colorful terminal output, tables, and progress bars.
+rich>=13.5.0
