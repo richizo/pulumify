@@ -1,0 +1,10 @@
+# requirements-dev.txt
+
+# For running our test suite
+pytest
+
+# Fixture to simplify mocking with unittest.mock
+pytest-mock
+
+# A code linter to ensure code quality
+flake8
